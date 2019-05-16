@@ -16,7 +16,8 @@ class RobertoBarros
       "A cópia é o primeiro passo para a criação.",
       "Não existem limites para a criatividade do ser humano.",
       "Está um ótimo dia para programar.",
-      "O importante da regra é saber quando quebrar a regra"
+      "O importante da regra é saber quando quebrar a regra.",
+      "Ao sair de um lugar onde você acampou deixe ele mais limpo do que quando você chegou."
     ].sample
   end
 end
